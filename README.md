@@ -135,7 +135,7 @@ git clone https://github.com/faizambn/Penetration-Testing-On-OWASP-Juice-Shop.gi
 cd Penetration-Testing-On-OWASP-Juice-Shop
 
 # Install required security packages
-npm install validator bcrypt jsonwebtoken helmet winston express-rate-limit
+npm install validator bcrypt jsonwebtoken helmet winston
 
 # Run security tests
 npm run security-test
